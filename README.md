@@ -1,31 +1,4 @@
 <html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="renderer" content="webkit">
-  <title>v5 产品文档</title>
-  <script type="text/javascript">window.DocConfig = {
-      "server": window.location.protocol + '//' + window.location.host + window.location.pathname + '../server/index.php?s=',
-      "lang": 'zh-cn'
-    }</script>
-  <script async="" src="static/editor.md/../jquery.min.js"></script>
-  <script async="" src="static/editor.md/lib/raphael.min.js"></script>
-  <script async="" src="static/editor.md/lib/flowchart.min.js"></script>
-  <script async="" src="static/editor.md/../xss.min.js"></script>
-  <script async="" src="static/editor.md/lib/marked.min.js"></script>
-  <script async="" src="static/editor.md/lib/prettify.min.js"></script>
-  <script async="" src="static/editor.md/lib/underscore.min.js"></script>
-  <script async="" src="static/editor.md/lib/sequence-diagram.min.js"></script>
-  <script async="" src="static/editor.md/lib/jquery.flowchart.min.js"></script>
-  <script async="" src="static/editor.md/editormd.js"></script>
-  <script async="" src="static/editor.md/../highlight/highlight.min.js"></script>
-  <link href="./static/css/app.21cff4bc2364963f8e74193feec8b691.css" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="//cdn.staticfile.org/KaTeX/0.3.0/katex.min.css">
-  <script id="-cdn-staticfile-org-KaTeX-0-3-0-katex-min" type="text/javascript"
-    src="//cdn.staticfile.org/KaTeX/0.3.0/katex.min.js"></script>
-</head>
-
 <body class="">
   <div id="app">
     <div data-v-6a6d0623="" class="hello">
