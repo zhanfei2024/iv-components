@@ -27,8 +27,9 @@
                       <div class="el-menu-item-group__title" style="padding-left: 40px;"></div>
                       <ul>
                         <li data-v-0f2a87b2="" role="menuitem" tabindex="-1" class="el-menu-item is-active"
-                          style="padding-left: 40px; background-color: rgb(250, 250, 250); color: rgb(0, 140, 255);">
-                          gb-drawer 抽屉</li>
+                          style="padding-left: 40px; background-color: rgb(250, 250, 250); color: rgb(0, 140, 255);"><a href="#page_content_main
+                          ">gb-drawer 抽屉</a>
+                          </li>
                       </ul>
                     </li>
                     <li data-v-0f2a87b2="" class="el-menu-item-group">
