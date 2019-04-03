@@ -19,8 +19,7 @@
                 <!---->
                 <li data-v-0f2a87b2="" role="menuitem" aria-haspopup="true" class="el-submenu is-active is-opened"
                   aria-expanded="true">
-                  <div class="el-submenu__title" style="padding-left: 20px; background-color: rgb(250, 250, 250);"><img
-                      data-v-0f2a87b2="" src="static/images/folder.png" class="icon-folder menu-icon-folder ">前端公共组件
+                  <div class="el-submenu__title" style="padding-left: 20px; background-color: rgb(250, 250, 250);">前端公共组件
                     components<i class="el-submenu__icon-arrow el-icon-arrow-down"></i></div>
                   <ul role="menu" class="el-menu" style="background-color: rgb(250, 250, 250);" data-old-padding-top=""
                     data-old-padding-bottom="" data-old-overflow="">
