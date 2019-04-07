@@ -170,7 +170,7 @@
                 </div>
               </div>
               <div data-v-e187e7b6="" class="doc-author">
-                更新：2019-02-19 13:54:30 &nbsp; 编辑：king
+                &nbsp; 编辑：zhanfei2024
               </div>
             </main>
           </section>
@@ -181,22 +181,16 @@
             <div class="el-dialog__header"><span class="el-dialog__title">分享项目</span><button type="button"
                 aria-label="Close" class="el-dialog__headerbtn"><i
                   class="el-dialog__close el-icon el-icon-close"></i></button></div>
-            <!---->
             <div class="el-dialog__footer"><span data-v-e187e7b6="" class="dialog-footer"><button data-v-e187e7b6=""
                   type="button" class="el-button el-button--primary">
-                  <!---->
-                  <!----><span>确定</span></button></span></div>
+            <span>确定</span></button></span></div>
           </div>
         </div>
         <div data-v-400dcdbb="" data-v-e187e7b6=""></div>
       </div>
-      <!---->
       <div data-v-400dcdbb="" data-v-6a6d0623=""></div>
     </div>
   </div>
-  <script type="text/javascript" src="./static/js/manifest.519a9bef11cee6166446.js"></script>
-  <script type="text/javascript" src="./static/js/vendor.047101ffe823d47f6ad4.js"></script>
-  <script type="text/javascript" src="./static/js/app.23fafd3e13be5fbfa3b4.js"></script>
 </body>
 
 </html>
