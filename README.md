@@ -10,13 +10,9 @@
             <div data-v-0f2a87b2="" data-v-e187e7b6="" class="hello">
               <ul data-v-0f2a87b2="" role="menubar" class="el-menu" style="background-color: rgb(250, 250, 250);">
                 <div data-v-0f2a87b2="" class="el-input">
-                  <!----><input autocomplete="off" placeholder="输入关键字后按回车以搜索" type="text" rows="2" validateevent="true"
+                  <input autocomplete="off" placeholder="输入关键字后按回车以搜索" type="text" rows="2" validateevent="true"
                     class="el-input__inner">
-                  <!---->
-                  <!---->
-                  <!---->
                 </div>
-                <!---->
                 <li data-v-0f2a87b2="" role="menuitem" aria-haspopup="true" class="el-submenu is-active is-opened"
                   aria-expanded="true">
                   <div class="el-submenu__title" style="padding-left: 20px; background-color: rgb(250, 250, 250);">前端公共组件
@@ -27,7 +23,7 @@
                       <div class="el-menu-item-group__title" style="padding-left: 40px;"></div>
                       <ul>
                         <li data-v-0f2a87b2="" role="menuitem" tabindex="-1" class="el-menu-item"
-                          style="padding-left: 40px; background-color: rgb(250, 250, 250);">gb-view-image （全屏图片预览）</li>
+                          style="padding-left: 40px; background-color: rgb(250, 250, 250);">iv-view-image （全屏图片预览）</li>
                       </ul>
                     </li>
                   </ul>
@@ -40,27 +36,25 @@
               <div data-v-e187e7b6="" class="header-left"><i data-v-e187e7b6="" id="header-left-btn"
                   class="el-icon-menu header-left-btn"></i></div>
               <div data-v-e187e7b6="" class="header-right">
-                <!---->
-                <!---->
               </div>
             </header>
             <main data-v-e187e7b6="" class="el-main page_content_main" id="page_content_main">
               <div data-v-e187e7b6="" class="doc-title-box"><span data-v-e187e7b6="" id="doc-title-span"
                   class="dn"></span>
-                <h2 data-v-e187e7b6="" id="doc-title">gb-view-image （全屏图片预览）</h2>
+                <h2 data-v-e187e7b6="" id="doc-title">iv-view-image （全屏图片预览）</h2>
               </div>
               <div data-v-e5df71aa="" data-v-e187e7b6="" id="editor-md"
                 class="main-editor markdown-body editormd-html-preview">
                 <link data-v-e5df71aa="" href="static/editor.md/css/editormd.min.css" rel="stylesheet">
-                <!---->
                 <h3 id="h3-u6982u8FF0"><a name="概述" class="reference-link"></a><span
                     class="header-link octicon octicon-link"></span>概述</h3>
                 <p>配合iview跑马灯实现图片预览，组件存放路径 <code
-                    style="color: rgb(221, 17, 68);">src/view/components/gb-view-image</code></p>
+                    style="color: rgb(221, 17, 68);">src/components/iv-view-image</code><br>
+                    在http://localhost:8080/viewImage，可以查看demo演示</p>
                 <h3 id="h3--"><a name="使用方式 (已注册全局组件)" class="reference-link"></a><span
                     class="header-link octicon octicon-link"></span>使用方式 (已注册全局组件)</h3>
                 <pre class="prettyprint linenums prettyprinted"
-                  style="padding-left: 5px; background-color: rgb(252, 252, 252); border: 1px solid rgb(225, 225, 232);"><ol class="linenums" style="padding-left: 5px;"><li class="L0" style="list-style-type: none; background-color: rgb(252, 252, 252);"><code style="color: rgb(221, 17, 68);"><span class="pln"> </span><span class="com">// 文件内直接使用</span></code></li><li class="L1" style="list-style-type: none; background-color: rgb(252, 252, 252);"><code style="color: rgb(221, 17, 68);"><span class="pln"> </span><span class="pun">&lt;</span><span class="pln">gb</span><span class="pun">-</span><span class="pln">view</span><span class="pun">-</span><span class="pln">img </span><span class="pun">/&gt;</span></code></li></ol></pre>
+                  style="padding-left: 5px; background-color: rgb(252, 252, 252); border: 1px solid rgb(225, 225, 232);"><ol class="linenums" style="padding-left: 5px;"><li class="L0" style="list-style-type: none; background-color: rgb(252, 252, 252);"><code style="color: rgb(221, 17, 68);"><span class="pln"> </span><span class="com">// 文件内直接使用</span></code></li><li class="L1" style="list-style-type: none; background-color: rgb(252, 252, 252);"><code style="color: rgb(221, 17, 68);"><span class="pln"> </span><span class="pun">&lt;</span><span class="pln">iv</span><span class="pun">-</span><span class="pln">view</span><span class="pun">-</span><span class="pln">img </span><span class="pun">/&gt;</span></code></li></ol></pre>
                 <h3 id="h3-props-"><a name="props 属性" class="reference-link"></a><span
                     class="header-link octicon octicon-link"></span>props 属性</h3>
                 <div style="width: 100%;overflow-x: auto;">
@@ -177,14 +171,6 @@
         <div data-v-c285ea70="" data-v-e187e7b6="" class="gotop-box" style="display: none;"><i data-v-c285ea70=""
             title="回到顶部" class="el-icon-caret-top"></i></div>
         <div data-v-e187e7b6="" class="el-dialog__wrapper text-center" style="display: none;">
-          <div class="el-dialog" style="width: 400px; margin-top: 15vh;">
-            <div class="el-dialog__header"><span class="el-dialog__title">分享项目</span><button type="button"
-                aria-label="Close" class="el-dialog__headerbtn"><i
-                  class="el-dialog__close el-icon el-icon-close"></i></button></div>
-            <div class="el-dialog__footer"><span data-v-e187e7b6="" class="dialog-footer"><button data-v-e187e7b6=""
-                  type="button" class="el-button el-button--primary">
-            <span>确定</span></button></span></div>
-          </div>
         </div>
         <div data-v-400dcdbb="" data-v-e187e7b6=""></div>
       </div>
